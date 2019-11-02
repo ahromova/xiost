@@ -1,2 +1,2 @@
-# xiost
-Open-source human resource management solution 
+# Xiost
+Open-source human resource management solution
