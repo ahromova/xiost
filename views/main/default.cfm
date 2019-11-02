@@ -1,0 +1,1 @@
+<cfoutput><a href="#buildurl("main.page")#">#rc.message#</a></cfoutput>
