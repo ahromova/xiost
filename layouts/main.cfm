@@ -1,2 +1,12 @@
-<h1>Main</h1>
-<cfoutput>#body#</cfoutput>
+
+<cf_leftmenu>
+
+<main class="admin-main">
+
+  <cf_siteheader>
+
+  <cfoutput>#body#</cfoutput>
+
+</main>
+
+<!--- <cf_searchmodal> --->
