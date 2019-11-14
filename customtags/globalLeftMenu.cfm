@@ -1,3 +1,5 @@
+<cfif thistag.executionMode eq "start">
+<cfoutput>
 <aside class="admin-sidebar">
   <div class="admin-sidebar-brand">
     <!-- begin sidebar branding-->
@@ -6,15 +8,15 @@
     <!-- end sidebar branding-->
     <div class="ml-auto">
       <!-- sidebar pin-->
-      <a href="#" class="admin-pin-sidebar btn-ghost btn btn-rounded-circle"></a>
+      <a href="##" class="admin-pin-sidebar btn-ghost btn btn-rounded-circle"></a>
       <!-- sidebar close for mobile device-->
-      <a href="#" class="admin-close-sidebar"></a>
+      <a href="##" class="admin-close-sidebar"></a>
     </div>
   </div>
     <div class="admin-sidebar-wrapper js-scrollbar">
       <ul class="menu">
         <li class="menu-item active ">
-          <a href="#" class="open-dropdown menu-link">
+          <a href="##" class="open-dropdown menu-link">
             <span class="menu-label">
               <span class="menu-name">Employees
                   <span class="menu-arrow"></span>
@@ -28,7 +30,7 @@
           <!--submenu-->
           <ul class="sub-menu">
             <li class="menu-item ">
-              <a href="index.html" class="menu-link">
+              <a href="index.cfm?do=employees:" class="menu-link">
                 <span class="menu-label">
                   <span class="menu-name">Overview</span>
                 </span>
@@ -62,3 +64,5 @@
       </ul>
     </div>
 </aside>
+</cfoutput>
+</cfif>

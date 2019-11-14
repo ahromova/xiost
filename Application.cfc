@@ -4,6 +4,7 @@ component extends="framework.one" {
   this.customTagPaths = "customtags"
 
   variables.framework = {
+	  action = 'do',
       reloadApplicationOnEveryRequest = true
   }
 
