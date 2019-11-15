@@ -2,7 +2,6 @@
     <div class="bg-dark m-b-30">
         <div class="container">
             <div class="row p-b-60 p-t-60">
-
                 <div class="col-md-6 text-white p-b-30">
                     <div class="media">
                         <div class="avatar avatar mr-3">
@@ -26,7 +25,6 @@
                     </p>
                     --->
                 </div>
-
             </div>
         </div>
     </div>
@@ -44,10 +42,8 @@
                             </div>
                             Introduction
                         </div>
-
                     </div>
-                    <div class="list-group list  list-group-flush">
-
+                    <div class="list-group list list-group-flush">
                         <div class="list-group-item p-all-15 h6 ">
                             <i class="mdi mdi-briefcase"></i> Works since 01.05.2015
                         </div>
@@ -64,36 +60,55 @@
                 </div>
                 <div class="card m-b-30">
                     <div class="card-header">
-
                         <div class="card-title">
                             <div class="avatar mr-2 avatar-xs">
                                 <div class="avatar-title bg-primary rounded-circle">
-                                    <i class="mdi mdi-link-variant mdi-18px"></i>
+                                    <i class="mdi mdi-account-box-outline mdi-18px"></i>
                                 </div>
                             </div>
-                            Links
+                            Work contacts
                         </div>
                     </div>
-                    <div class="list-group list  list-group-flush">
-
-                        <div class="list-group-item p-all-15 h6 text-muted ">
-                            <i class="mdi mdi-school"></i>
-                            Infinity Plan
-
+                    <div class="list-group list list-group-flush">
+                        <div class="list-group-item p-all-15 h6">
+                            <i class="mdi mdi-email"></i> j.tremblay@xiost.com
                         </div>
-
-                        <div class="list-group-item p-all-15 h6 text-muted ">
-                            <img class="rounded-circle" src="assets/img/logos/skype.jpg" height="30" alt=""> Basic
-                            Plan
-
+                        <div class="list-group-item p-all-15 h6">
+                            <i class="mdi mdi-phone"></i> (555) 123-456-789
                         </div>
-
-
                     </div>
                 </div>
                 <div class="card m-b-30">
                     <div class="card-header">
-
+                        <div class="card-title">
+                            <div class="avatar mr-2 avatar-xs">
+                                <div class="avatar-title bg-primary rounded-circle">
+                                    <i class="mdi mdi-account mdi-18px"></i>
+                                </div>
+                            </div>
+                            Personal contacts
+                        </div>
+                    </div>
+                    <div class="list-group list  list-group-flush">
+                        <div class="list-group-item p-all-15 h6">
+                            <i class="mdi mdi-phone"></i> (555) 321-654-987
+                        </div>
+                        <div class="list-group-item p-all-15 h6">
+                            <img class="rounded-circle" src="assets/img/logos/facebook.png" height="20" alt=""> jack.f
+                        </div>
+                        <div class="list-group-item p-all-15 h6">
+                            <img class="rounded-circle" src="assets/img/logos/twitter.jpg" height="20" alt=""> jack.t
+                        </div>
+                        <div class="list-group-item p-all-15 h6">
+                            <img class="rounded-circle" src="assets/img/logos/linkedin.png" height="20" alt=""> jack.tremblay
+                        </div>
+                        <div class="list-group-item p-all-15 h6">
+                            <img class="rounded-circle" src="assets/img/logos/skype.jpg" height="20" alt=""> jack.dull.boy
+                        </div>
+                    </div>
+                </div>
+                <div class="card m-b-30">
+                    <div class="card-header">
                         <div class="card-title">
                             <div class="avatar mr-2 avatar-xs">
                                 <div class="avatar-title bg-warning rounded-circle">
@@ -101,7 +116,6 @@
                                 </div>
                             </div>
                             Notes
-
                         </div>
                     </div>
                     <div class="card-body">
@@ -111,13 +125,11 @@
                         </div>
                     </div>
                 </div>
-
             </div>
             <div class="col-lg-8 m-b-30">
                 <div class="card">
                     <div class="card-header">
                         <div class="card-title">Timeline</div>
-
                         <div class="card-controls">
                             <select class="custom-select">
                                 <option value="">Everything</option>
@@ -141,7 +153,6 @@
                                     </div>
                                     <div class="ml-auto col-auto text-muted">June 2, 2018</div>
                                 </div>
-
                             </div>
                             <div class="timeline-item">
                                 <div class="timeline-wrapper">
@@ -157,7 +168,6 @@
                                     </div>
                                     <div class="ml-auto col-auto text-muted">June 12, 2018</div>
                                 </div>
-
                             </div>
                             <div class="timeline-item">
                                 <div class="timeline-wrapper">
@@ -173,7 +183,6 @@
                                     </div>
                                     <div class="ml-auto col-auto text-muted">July 16, 2018</div>
                                 </div>
-
                             </div>
                             <div class="timeline-item">
                                 <div class="timeline-wrapper">
@@ -188,9 +197,7 @@
                                         <h6 class="m-0">Ticket Resolved</h6>
                                     </div>
                                     <div class="ml-auto col-auto text-muted">July 20, 2018</div>
-
                                 </div>
-
                             </div>
                             <div class="timeline-item">
                                 <div class="timeline-wrapper">
@@ -205,7 +212,6 @@
                                     </div>
                                     <div class="ml-auto col-auto text-muted">Aug 19, 2018</div>
                                 </div>
-
                             </div>
                             <div class="timeline-item">
                                 <div class="timeline-wrapper">
@@ -221,7 +227,6 @@
                                     </div>
                                     <div class="ml-auto col-auto text-muted">Sep 25, 2018</div>
                                 </div>
-
                             </div>
                             <div class="timeline-item">
                                 <div class="timeline-wrapper">
@@ -230,8 +235,6 @@
                                     </div>
                                     <div class="ml-auto col-auto text-muted">Sep 10, 2018</div>
                                 </div>
-
-
                             </div>
                             <div class="timeline-item">
                                 <div class="timeline-wrapper">
@@ -244,11 +247,9 @@
                                     </div>
                                     <div class="col-auto">
                                         <h6 class="m-0">Switched to Atoms</h6>
-
                                     </div>
                                     <div class="ml-auto col-auto text-muted">Oct 12, 2018</div>
                                 </div>
-
                             </div>
                             <div class="timeline-item">
                                 <div class="timeline-wrapper">
@@ -263,29 +264,6 @@
                                     </div>
                                     <div class="ml-auto col-auto text-muted">Nov 13, 2018</div>
                                 </div>
-
-                            </div>
-                            <div class="timeline-item">
-                                <div class="timeline-wrapper">
-                                    <div class="">
-                                        <div class="avatar avatar-sm">
-                                            <img class="avatar-img rounded-circle"
-                                                    src="assets/img/logos/instagram.jpg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="col">
-                                        <h6 class="p-t-10">Uploaded Images</h6>
-                                        <div class="card mb-2">
-                                            <div class="card-body">
-                                                <img src="assets/img/social/1.jpg" class="w-25" alt="">
-                                                <img src="assets/img/social/2.jpg" class="w-25" alt="">
-                                                <img src="assets/img/social/3.jpg" class="w-25" alt="">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="ml-auto col-auto text-muted">Jan 5, 2017</div>
-                                </div>
-
                             </div>
                             <div class="timeline-item">
                                 <div class="timeline-wrapper">
@@ -301,29 +279,6 @@
                                     </div>
                                     <div class="ml-auto col-auto text-muted">Dec 2, 2018</div>
                                 </div>
-
-                            </div>
-                            <div class="timeline-item">
-                                <div class="timeline-wrapper">
-                                    <div class="">
-                                        <div class="avatar avatar-sm">
-                                            <img class="avatar-img rounded-circle" src="assets/img/logos/vimeo.jpg"
-                                                    alt="">
-                                        </div>
-                                    </div>
-                                    <div class="col">
-                                        <h6 class="p-t-10">Shared Video</h6>
-                                        <div class="card mb-2">
-                                            <div class="card-body">
-                                                <div class="embed-responsive embed-responsive-16by9">
-                                                    <iframe src="https://player.vimeo.com/video/265045525?color=f15f5f&title=0&byline=0&portrait=0" width="640" height="360" ></iframe>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="ml-auto col-auto text-muted">Jan 5, 2017</div>
-                                </div>
-
                             </div>
                             <div class="timeline-item">
                                 <div class="timeline-wrapper">
@@ -334,14 +289,11 @@
                                         </div>
                                     </div>
                                     <div class="col-auto">
-                                        <h6 class="m-0">Joined atmos</h6>
+                                        <h6 class="m-0">Joined Xiost</h6>
                                     </div>
                                     <div class="ml-auto col-auto text-muted">Jan 5, 2017</div>
                                 </div>
-
                             </div>
-
-
                         </div>
                     </div>
                 </div>
