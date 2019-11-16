@@ -5,10 +5,10 @@
                     <div class="col-md-6 text-center mx-auto text-white p-b-30">
                         <div class="m-b-10">
                             <div class="avatar ">
-                                <div class="avatar-title rounded-circle mdi mdi-contacts "></div>
+                                <div class="avatar-title rounded-circle mdi mdi-account-circle"></div>
                             </div>
                         </div>
-                        <h3>Contacts </h3>
+                        <h3>Employees</h3>
                         <div class="form-dark">
                             <div class="input-group input-group-flush mb-3">
                                 <input placeholder="Search Contacts" type="search"

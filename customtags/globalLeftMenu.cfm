@@ -40,7 +40,7 @@
               </a>
             </li>
             <li class="menu-item">
-              <a href="dashboard-02.html" class="menu-link">
+              <a href="index.cfm?do=employees:main.list" class="menu-link">
                 <span class="menu-label">
                   <span class="menu-name">List</span>
                 </span>
@@ -50,7 +50,7 @@
               </a>
             </li>
             <li class="menu-item">
-              <a href="dashboard-02.html" class=" menu-link">
+              <a href="index.cfm?do=employees:main.new" class="menu-link">
                 <span class="menu-label">
                   <span class="menu-name">Add</span>
                 </span>
